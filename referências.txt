@@ -1,0 +1,19 @@
+Projeto Iniciante com React.js e Three.js
+
+
+#Tecnologias Utilizadas:
+
+Node.js https://nodejs.org/en/
+React.js https://reactjs.org/docs/create-a-new-react-app.html
+Three.js https://threejs.org/
+React Three Fiber https://docs.pmnd.rs/react-three-fiber/getting-started/installation
+React Three PostProcessing: https://github.com/pmndrs/react-postprocessing
+React Bootstrap: https://react-bootstrap.github.io/getting-started/introduction/
+
+Material 3D: https://www.poliigon.com/
+
+
+link Video: https://www.youtube.com/watch?v=_hm2osohQ9U&list=WL&index=9&t=603s
+
+Video aula referência de criação de uma landing page com React e Threejs, criando animações com three.js no react e estilização com react
+bootstrap. Muito conhecimento adquirido neste video.
